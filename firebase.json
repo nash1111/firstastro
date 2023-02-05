@@ -3,12 +3,12 @@
     {
       "target": "firstastroprod",
       "public": "dist",
-      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+      "ignore": ["**/.*", "**/node_modules/**"]
     },
     {
       "target": "firstastrodraft",
       "public": "dist",
-      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+      "ignore": ["**/.*", "**/node_modules/**"]
     }
   ]
 }
