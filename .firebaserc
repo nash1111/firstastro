@@ -6,10 +6,13 @@
     "hostingprj": {
       "hosting": {
         "prod": [
-          "astroprod"
+          "astroprod",
+          "firstastroprod"
         ],
         "draft": [
-          "astrodraft"
+          "astrodraft",
+          "firstastrodraft",
+          "hostingprj"
         ]
       }
     }

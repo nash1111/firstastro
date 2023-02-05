@@ -1,9 +1,14 @@
 {
   "hosting": [
     {
-      "target": "hostingprj",
+      "target": "prod",
       "public": "dist",
-      "ignore": ["**/.*", "**/node_modules/**"]
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "target": "draft",
+      "public": "dist",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
