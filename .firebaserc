@@ -5,14 +5,11 @@
   "targets": {
     "hostingprj": {
       "hosting": {
-        "prod": [
-          "astroprod",
-          "firstastroprod"
-        ],
         "draft": [
-          "astrodraft",
-          "firstastrodraft",
-          "hostingprj"
+          "firstastrodraft"
+        ],
+        "prod": [
+          "firstastroprod"
         ]
       }
     }
