@@ -4,16 +4,11 @@
   },
   "targets": {
     "hostingprj": {
-      "hosting": [{
+      "hosting": {
         "firstastroprod": [
           "hostingprj"
         ]
-      },
-      {
-        "firstastrodraft": [
-          "hostingprj"
-        ]
-      }]
+      }
     }
   },
   "etags": {}
