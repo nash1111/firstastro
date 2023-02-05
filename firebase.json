@@ -1,12 +1,7 @@
 {
   "hosting": [
     {
-      "target": "firstastroprod",
-      "public": "dist",
-      "ignore": ["**/.*", "**/node_modules/**"]
-    },
-    {
-      "target": "firstastrodraft",
+      "target": "hostingprj",
       "public": "dist",
       "ignore": ["**/.*", "**/node_modules/**"]
     }
