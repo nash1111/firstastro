@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "hostingprj"
-  }
+  },
+  "targets": {
+    "hostingprj": {
+      "hosting": {
+        "firstastrodraft": [
+          "hostingprj"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
